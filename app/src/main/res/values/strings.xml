@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PMDM_Practica5_Jaime</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_color">Color</string>
+    <string name="title_activity_forma">Forma</string>
+    <string name="title_activity_tamaño">Tamaño</string>
+    <string name="str_color_red">Rojo</string>
+    <string name="str_color_blue">Azul</string>
+    <string name="str_color_green">Verde</string>
+    <string name="str_color_white">Blanco</string>
+    <string name="str_color_black">Negro</string>
+    <string name="str_aceptar">Aceptar</string>
+    <string name="str_cancelar">Cancelar</string>
+    <string name="str_forma_cuadrafo">Cuadrado</string>
+    <string name="str_forma_circulo">Circulo</string>
+    <string name="str_forma_recta">Recta</string>
+    <string name="str_forma_linea">Linea</string>
+    <string name="str_tamaño_superfino">Super fino</string>
+    <string name="str_tamaño_fino">Fino</string>
+    <string name="str_tamaño_fmedino">Mediano</string>
+    <string name="str_tamaño_grueso">Grueso</string>
+    <string name="str_relleno">Con relleno</string>
+    <string name="str_sin_relleno">Sin relleno</string>
+    <string name="str_for_figure">Tipo de relleno</string>
+
+</resources>
